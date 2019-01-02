@@ -1,5 +1,7 @@
 # CloudinaryStarter
-Introduction to Cloudinary.How to create account,resize images and apply rounded corners.
+
+Introduction to Cloudinary.How to create account,resize images and apply rounded corners. Read full tutorial here https://www.camposha.info/source/cloudinarystart
+
 # Android Cloudinary Round  Image
 
 - - -
@@ -63,7 +65,7 @@ For more eaasy to understand check http://camposha.info
 
 #### Author
 Oclemy,Cheers.
-http://camposha.info
+https://camposha.info
 
 
 
